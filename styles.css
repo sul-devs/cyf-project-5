@@ -76,9 +76,22 @@ p {
 
 #gift-img-cheers {
   height: 200px;
+}
+
+#gift-img-cheers:hover {
   background-image: url("./images/cheers.gif");
 }
 
 #bday-age {
   margin-top: 5px;
+}
+
+#footer {
+  text-align: center;
+  padding-block: 30px;
+}
+
+#footer a {
+  color: #fff;
+  font-style: italic;
 }
