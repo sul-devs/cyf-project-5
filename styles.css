@@ -45,9 +45,13 @@ p {
 .gift-img {
   width: 400px;
   height: 400px;
-  object-fit: cover;
   border: 5px solid white;
   border-radius: 10px;
+  background-image: url("./gift.jpg");
+  background-size: cover;
+  background-position: bottom;
+  margin-inline: auto;
+  margin-top: 40px;
 }
 
 #bday-age {
