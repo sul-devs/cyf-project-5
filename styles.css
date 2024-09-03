@@ -1,8 +1,8 @@
 body {
   font-family: "Happy Monkey", system-ui;
   text-align: center;
-  background-color: #a2d2ff;
   color: #ffffff;
+  background: linear-gradient(#a2d2ff, #efb0c9);
 }
 
 #header {
