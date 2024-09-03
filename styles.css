@@ -54,8 +54,12 @@ p {
   margin-top: 40px;
 }
 
-.gift-img:hover {
+#gift-1:hover {
   background-image: url("./happy.gif");
+}
+
+#gift-2:hover {
+  background-image: url("./sun.gif");
 }
 
 #bday-age {
